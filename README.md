@@ -1,3 +1,6 @@
-# GitHub Version Control Project
+## Features
 
-This project demonstrates Git and GitHub version control.
+- Version Control
+- Branching
+- Merging
+- Collaboration
